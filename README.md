@@ -57,8 +57,7 @@ for optimization.
     ```
 
 ## Usage
-1. Open the main.py file in your preferred Python environment.
-2. Run the jupyter.
+1. Run the jupyter and then open the my_convex_optimization.ipynb file in your preferred Python environment
 
     ```bash
     python my_convex_optimization.ipynb
